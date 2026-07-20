@@ -50,4 +50,4 @@ Este repositório reúne projetos desenvolvidos para praticar e aperfeiçoar apl
 
 Meu foco é construir aplicações de qualidade, escrever código limpo e evoluir continuamente como desenvolvedor, buscando oportunidades para contribuir em projetos reais e crescer profissionalmente.
 
-⭐ Fique à vontade para explorar os projetos e acompanhar minha evolução como desenvolvedor!
+Fique à vontade para explorar os projetos e acompanhar minha evolução como desenvolvedor!
